@@ -16,6 +16,8 @@
 
 ```
 
+> A bot to help our teams automate things
+
 ## Getting Started
 
 1º Clone alfred repo
