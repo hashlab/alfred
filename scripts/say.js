@@ -7,8 +7,8 @@
 // Author:
 //   chris@hashlab.com.br
 
-module.exports = function sayScript (robot) {
-  return robot.respond(/say (.*)/i, (res) => {
-    res.send(res.match[1])
-  })
-}
+module.exports = function sayScript(robot) {
+  return robot.respond(/say (.*)/i, res => {
+    res.send(res.match[1]);
+  });
+};
