@@ -36,7 +36,7 @@ $ cd alfred
 
 3º Run the setup script
 ```bash
-$ bin/setup
+$ make setup
 ```
 
 4º Configure the environment variables
